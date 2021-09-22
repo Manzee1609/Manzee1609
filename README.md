@@ -7,7 +7,6 @@ I am Mansi Kalaria, pre-final year IT student. I love exploring new technologies
 - 💬 Ask me about any Tech related stuff
 - Reachout to me for any project ideas and I would love to collaborate
 - ⚡ Fun fact: I love Drawing and painting
-- 📝[Resume](https://mansikalaria.netlify.app/resume.html)
 - 🔗[Portfolio](https://portfolios.talentsprint.com/~mansi_kalaria/)
 
 **📫 Find me:** 
