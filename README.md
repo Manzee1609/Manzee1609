@@ -1,43 +1,51 @@
-### Hey there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I am Mansi Kalaria, pre-final year IT student. I love exploring new technologies and building cool automation projects. I also like to meet new people and work with them.  
-- 🔭 I’m currently working on a Flutter Project
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on any Mobile App Idea
-- 🤔 I’m looking for help with Data Structures & Algorithms
-- 💬 Ask me about any Tech related stuff
-- Reachout to me for any project ideas and I would love to collaborate
-- ⚡ Fun fact: I love Drawing and painting
+<h1 align="center">Heyy There !! 👋, I'm Mansi Kalaria 👨‍💻</h1>
+<h4 align="center">Pre-final year student at <a href="https://www.ddu.ac.in/">Dharamsinh Desai University</a> </h4> 
+  <h4 align="center">Vice President at <a href="https://www.csiddu.in/">Computer Society Of India, DDU</a></h4>
+  <h4 align="center">Mobile Team Member at <a href="https://www.dscddu.com/">Developer Student Clubs, DDU</a></h4><br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Manzee1609&label=Profile%20views&color=0e75b6&style=flat" alt="MansiKalaria" /> </p>
+
+- 🔭 I’m currently working on **Web Development**
+
+- 🌱 I’m currently sharpning **Data Structures & Algorithms**
+
+- 👯 I’m looking to collaborate on **any project idea..**
+
+- 💬 Ask me about **any Tech related stuff.**
+
+-  ⚡ Fun fact: I love Drawing and painting
+    
 - 🔗[Portfolio](https://portfolios.talentsprint.com/~mansi_kalaria/)
 
-**📫 Find me:** 
+<h3 align="left">Find me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/mansi-kalaria/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mansi-kalaria/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/man.c.10000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/man.c.10000/" height="30" width="40" /></a>
+<a href="https://mansik16.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://mansik16.medium.com/" height="30" width="40" /></a>
+<a href="https://www.twitter/Mansi25749752/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://www.twitter/Mansi25749752/" height="30" width="40" /></a>
+</p>
 
-<a href="https://mansik16.medium.com/">
-  <img align="left" alt="Mansi Kalaria | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/medium.svg" />
-</a>
-<a href="https://www.linkedin.com/in/mansi-kalaria-92a2221a4/">
-  <img align="left" alt="Mansi Kalaria | LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/man.c.10000/">
-  <img align="left" alt="Mansi Kalaria | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://github.com/Manzee1609">
-  <img align="left" alt="Mansi Kalaria | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg" />
-</a>
-<a href="https://gitlab.com/Manzee1609">
-  <img align="left" alt="Mansi Kalaria | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gitlab.svg" />
-</a>
-<br />
-<br />
+<h3 align="left">Languages and Tools:</h3>
 
-**Languages and Tools:**  
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="c++" width="40" height="40"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>    
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<h3 align="left">My Stats:</h3>
 
-<summary>📈 My GitHub Stats</summary>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Manzee1609&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Mansi Kalaria" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manzee1609&show_icons=true&locale=en&layout=compact" alt="krishnasinroja" /> 
+
+<img align="cecnter" src="https://github-readme-stats.vercel.app/api?username=Manzee1609&show_icons=true&locale=en" alt="krishnasinroja" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manzee1609&" alt="krishnasinroja" />
+
+<p align="center"><h4 align="center">Show Your ❤️ by Staring My Repos!!</h4> </p>
+
