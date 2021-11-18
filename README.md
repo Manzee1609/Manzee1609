@@ -41,9 +41,9 @@
 
 <h3 align="left">My Stats:</h3>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manzee1609&show_icons=true&locale=en&layout=compact" alt="krishnasinroja" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manzee1609&show_icons=true&locale=en&layout=compact" alt="mansikalaria" /> 
 
-<img align="cecnter" src="https://github-readme-stats.vercel.app/api?username=Manzee1609&show_icons=true&locale=en" alt="krishnasinroja" />
+<img align="cecnter" src="https://github-readme-stats.vercel.app/api?username=Manzee1609&show_icons=true&locale=en" alt="mansikalaria" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manzee1609&" alt="krishnasinroja" />
 
