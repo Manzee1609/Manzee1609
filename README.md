@@ -45,7 +45,7 @@
 
 <img align="cecnter" src="https://github-readme-stats.vercel.app/api?username=Manzee1609&show_icons=true&locale=en" alt="mansikalaria" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manzee1609&" alt="krishnasinroja" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manzee1609&" alt="mansikalaria" />
 
 <p align="center"><h4 align="center">Show Your ❤️ by Staring My Repos!!</h4> </p>
 
